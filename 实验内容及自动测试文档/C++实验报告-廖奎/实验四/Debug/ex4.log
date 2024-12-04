@@ -1,0 +1,130 @@
+﻿  ex4.cpp
+D:\ex4\ex4.h(30): warning C4661: “MAT<int>::MAT(MAT<int> &&) noexcept”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(15): message : 参见“MAT<int>::MAT”的声明
+D:\ex4\ex4.h(30): warning C4661: “MAT<int>::MAT(const MAT<int> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(14): message : 参见“MAT<int>::MAT”的声明
+D:\ex4\ex4.h(30): warning C4661: “MAT<int>::~MAT(void) noexcept”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(16): message : 参见“MAT<int>::~MAT”的声明
+D:\ex4\ex4.h(30): warning C4661: “T *const MAT<T>::operator [](int)”: 没有为显式模板实例化请求提供适当的定义
+          with
+          [
+              T=int
+          ]
+D:\ex4\ex4.h(17): message : 参见“MAT<int>::operator []”的声明
+D:\ex4\ex4.h(30): warning C4661: “MAT<int> MAT<int>::operator +(const MAT<int> &) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(18): message : 参见“MAT<int>::operator +”的声明
+D:\ex4\ex4.h(30): warning C4661: “MAT<int> MAT<int>::operator -(const MAT<int> &) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(19): message : 参见“MAT<int>::operator -”的声明
+D:\ex4\ex4.h(30): warning C4661: “MAT<int> MAT<int>::operator *(const MAT<int> &) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(20): message : 参见“MAT<int>::operator *”的声明
+D:\ex4\ex4.h(30): warning C4661: “MAT<int> MAT<int>::operator ~(void) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(21): message : 参见“MAT<int>::operator ~”的声明
+D:\ex4\ex4.h(30): warning C4661: “MAT<int> &MAT<int>::operator =(MAT<int> &&) noexcept”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(23): message : 参见“MAT<int>::operator =”的声明
+D:\ex4\ex4.h(30): warning C4661: “MAT<int> &MAT<int>::operator =(const MAT<int> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(22): message : 参见“MAT<int>::operator =”的声明
+D:\ex4\ex4.h(30): warning C4661: “MAT<int> &MAT<int>::operator +=(const MAT<int> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(24): message : 参见“MAT<int>::operator +=”的声明
+D:\ex4\ex4.h(30): warning C4661: “MAT<int> &MAT<int>::operator -=(const MAT<int> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(25): message : 参见“MAT<int>::operator -=”的声明
+D:\ex4\ex4.h(30): warning C4661: “MAT<int> &MAT<int>::operator *=(const MAT<int> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(26): message : 参见“MAT<int>::operator *=”的声明
+D:\ex4\ex4.h(30): warning C4661: “char *MAT<int>::print(char *) noexcept const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(28): message : 参见“MAT<int>::print”的声明
+D:\ex4\ex4.h(31): warning C4661: “MAT<__int64>::MAT(MAT<__int64> &&) noexcept”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(15): message : 参见“MAT<__int64>::MAT”的声明
+D:\ex4\ex4.h(31): warning C4661: “MAT<__int64>::MAT(const MAT<__int64> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(14): message : 参见“MAT<__int64>::MAT”的声明
+D:\ex4\ex4.h(31): warning C4661: “MAT<__int64>::~MAT(void) noexcept”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(16): message : 参见“MAT<__int64>::~MAT”的声明
+D:\ex4\ex4.h(31): warning C4661: “T *const MAT<T>::operator [](int)”: 没有为显式模板实例化请求提供适当的定义
+          with
+          [
+              T=__int64
+          ]
+D:\ex4\ex4.h(17): message : 参见“MAT<__int64>::operator []”的声明
+D:\ex4\ex4.h(31): warning C4661: “MAT<__int64> MAT<__int64>::operator +(const MAT<__int64> &) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(18): message : 参见“MAT<__int64>::operator +”的声明
+D:\ex4\ex4.h(31): warning C4661: “MAT<__int64> MAT<__int64>::operator -(const MAT<__int64> &) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(19): message : 参见“MAT<__int64>::operator -”的声明
+D:\ex4\ex4.h(31): warning C4661: “MAT<__int64> MAT<__int64>::operator *(const MAT<__int64> &) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(20): message : 参见“MAT<__int64>::operator *”的声明
+D:\ex4\ex4.h(31): warning C4661: “MAT<__int64> MAT<__int64>::operator ~(void) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(21): message : 参见“MAT<__int64>::operator ~”的声明
+D:\ex4\ex4.h(31): warning C4661: “MAT<__int64> &MAT<__int64>::operator =(MAT<__int64> &&) noexcept”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(23): message : 参见“MAT<__int64>::operator =”的声明
+D:\ex4\ex4.h(31): warning C4661: “MAT<__int64> &MAT<__int64>::operator =(const MAT<__int64> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(22): message : 参见“MAT<__int64>::operator =”的声明
+D:\ex4\ex4.h(31): warning C4661: “MAT<__int64> &MAT<__int64>::operator +=(const MAT<__int64> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(24): message : 参见“MAT<__int64>::operator +=”的声明
+D:\ex4\ex4.h(31): warning C4661: “MAT<__int64> &MAT<__int64>::operator -=(const MAT<__int64> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(25): message : 参见“MAT<__int64>::operator -=”的声明
+D:\ex4\ex4.h(31): warning C4661: “MAT<__int64> &MAT<__int64>::operator *=(const MAT<__int64> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(26): message : 参见“MAT<__int64>::operator *=”的声明
+D:\ex4\ex4.h(31): warning C4661: “char *MAT<__int64>::print(char *) noexcept const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(28): message : 参见“MAT<__int64>::print”的声明
+D:\ex4\ex4.h(32): warning C4661: “MAT<float>::MAT(MAT<float> &&) noexcept”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(15): message : 参见“MAT<float>::MAT”的声明
+D:\ex4\ex4.h(32): warning C4661: “MAT<float>::MAT(const MAT<float> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(14): message : 参见“MAT<float>::MAT”的声明
+D:\ex4\ex4.h(32): warning C4661: “MAT<float>::~MAT(void) noexcept”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(16): message : 参见“MAT<float>::~MAT”的声明
+D:\ex4\ex4.h(32): warning C4661: “T *const MAT<T>::operator [](int)”: 没有为显式模板实例化请求提供适当的定义
+          with
+          [
+              T=float
+          ]
+D:\ex4\ex4.h(17): message : 参见“MAT<float>::operator []”的声明
+D:\ex4\ex4.h(32): warning C4661: “MAT<float> MAT<float>::operator +(const MAT<float> &) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(18): message : 参见“MAT<float>::operator +”的声明
+D:\ex4\ex4.h(32): warning C4661: “MAT<float> MAT<float>::operator -(const MAT<float> &) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(19): message : 参见“MAT<float>::operator -”的声明
+D:\ex4\ex4.h(32): warning C4661: “MAT<float> MAT<float>::operator *(const MAT<float> &) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(20): message : 参见“MAT<float>::operator *”的声明
+D:\ex4\ex4.h(32): warning C4661: “MAT<float> MAT<float>::operator ~(void) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(21): message : 参见“MAT<float>::operator ~”的声明
+D:\ex4\ex4.h(32): warning C4661: “MAT<float> &MAT<float>::operator =(MAT<float> &&) noexcept”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(23): message : 参见“MAT<float>::operator =”的声明
+D:\ex4\ex4.h(32): warning C4661: “MAT<float> &MAT<float>::operator =(const MAT<float> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(22): message : 参见“MAT<float>::operator =”的声明
+D:\ex4\ex4.h(32): warning C4661: “MAT<float> &MAT<float>::operator +=(const MAT<float> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(24): message : 参见“MAT<float>::operator +=”的声明
+D:\ex4\ex4.h(32): warning C4661: “MAT<float> &MAT<float>::operator -=(const MAT<float> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(25): message : 参见“MAT<float>::operator -=”的声明
+D:\ex4\ex4.h(32): warning C4661: “MAT<float> &MAT<float>::operator *=(const MAT<float> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(26): message : 参见“MAT<float>::operator *=”的声明
+D:\ex4\ex4.h(32): warning C4661: “char *MAT<float>::print(char *) noexcept const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(28): message : 参见“MAT<float>::print”的声明
+D:\ex4\ex4.h(33): warning C4661: “MAT<double>::MAT(MAT<double> &&) noexcept”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(15): message : 参见“MAT<double>::MAT”的声明
+D:\ex4\ex4.h(33): warning C4661: “MAT<double>::MAT(const MAT<double> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(14): message : 参见“MAT<double>::MAT”的声明
+D:\ex4\ex4.h(33): warning C4661: “MAT<double>::~MAT(void) noexcept”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(16): message : 参见“MAT<double>::~MAT”的声明
+D:\ex4\ex4.h(33): warning C4661: “T *const MAT<T>::operator [](int)”: 没有为显式模板实例化请求提供适当的定义
+          with
+          [
+              T=double
+          ]
+D:\ex4\ex4.h(17): message : 参见“MAT<double>::operator []”的声明
+D:\ex4\ex4.h(33): warning C4661: “MAT<double> MAT<double>::operator +(const MAT<double> &) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(18): message : 参见“MAT<double>::operator +”的声明
+D:\ex4\ex4.h(33): warning C4661: “MAT<double> MAT<double>::operator -(const MAT<double> &) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(19): message : 参见“MAT<double>::operator -”的声明
+D:\ex4\ex4.h(33): warning C4661: “MAT<double> MAT<double>::operator *(const MAT<double> &) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(20): message : 参见“MAT<double>::operator *”的声明
+D:\ex4\ex4.h(33): warning C4661: “MAT<double> MAT<double>::operator ~(void) const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(21): message : 参见“MAT<double>::operator ~”的声明
+D:\ex4\ex4.h(33): warning C4661: “MAT<double> &MAT<double>::operator =(MAT<double> &&) noexcept”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(23): message : 参见“MAT<double>::operator =”的声明
+D:\ex4\ex4.h(33): warning C4661: “MAT<double> &MAT<double>::operator =(const MAT<double> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(22): message : 参见“MAT<double>::operator =”的声明
+D:\ex4\ex4.h(33): warning C4661: “MAT<double> &MAT<double>::operator +=(const MAT<double> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(24): message : 参见“MAT<double>::operator +=”的声明
+D:\ex4\ex4.h(33): warning C4661: “MAT<double> &MAT<double>::operator -=(const MAT<double> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(25): message : 参见“MAT<double>::operator -=”的声明
+D:\ex4\ex4.h(33): warning C4661: “MAT<double> &MAT<double>::operator *=(const MAT<double> &)”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(26): message : 参见“MAT<double>::operator *=”的声明
+D:\ex4\ex4.h(33): warning C4661: “char *MAT<double>::print(char *) noexcept const”: 没有为显式模板实例化请求提供适当的定义
+D:\ex4\ex4.h(28): message : 参见“MAT<double>::print”的声明
+  ex4.vcxproj -> D:\ex4\Debug\ex4.exe

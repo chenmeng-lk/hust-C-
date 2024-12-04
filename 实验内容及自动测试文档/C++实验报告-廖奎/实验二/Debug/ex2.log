@@ -1,0 +1,3 @@
+﻿  ex2_c.cpp
+D:\ex2\ex2_c.cpp(84): warning C4715: “QUEUE::operator=”: 不是所有的控件路径都返回值
+  ex2.vcxproj -> D:\ex2\Debug\ex2.exe

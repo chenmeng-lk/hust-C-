@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="twnlt">
+    <file>map.bmp</file>
+  </qresource>
+</RCC>
